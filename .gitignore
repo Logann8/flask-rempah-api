@@ -1,4 +1,3 @@
-models/*.keras
-models/*.h5
-dataset/
+*.h5
+*.keras
 __pycache__/
