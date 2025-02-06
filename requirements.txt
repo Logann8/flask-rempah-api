@@ -1,5 +1,4 @@
-flask
-tensorflow
-numpy
-Pillow
-requests
+Flask==2.2.3
+tensorflow==2.12.0
+numpy==1.24.3
+Pillow==9.4.0
